@@ -90,4 +90,4 @@ Global error handler intercepts validation and missing resources.
 ---
 
 ## How to Run
-Service location: http://localhost:9090
+Service location: http://http://localhost:9090/health
